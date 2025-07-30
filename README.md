@@ -6,7 +6,7 @@ The project is split into two phases. In the first, I focused on exploring the r
 
 ---
 
-https://github.com/HamedBatani/neurosignals-EEGLAB/blob/main/Screenshot%202025-07-30%20090930.png
+![](image_URL_or_pathhttps://github.com/HamedBatani/neurosignals-EEGLAB/blob/main/Screenshot%202025-07-30%20090930.png )
 
 ---
 ## Phase 1 — Analyzing and Filtering EEG Signals
