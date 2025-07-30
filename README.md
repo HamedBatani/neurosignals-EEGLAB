@@ -40,8 +40,9 @@ While the systems weren’t biologically accurate, the process helped me imagine
 
 ---
 
-![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20090930.png)
 ![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20091022.png)
+
+![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20091006.png)
 
 ---
 
