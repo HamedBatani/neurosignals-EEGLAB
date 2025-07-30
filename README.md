@@ -55,6 +55,9 @@ I also got more comfortable with LaTeX while putting together the report, which 
 Looking back, I’m glad I stuck with it. It showed me that even if something seems tough at first, with patience and practice, you can learn a lot—and maybe even enjoy it along the way!
 
 
+ --- 
+
+ 
 ## Data Structure
 
 For each phase of the project, I organized everything into three main files:
