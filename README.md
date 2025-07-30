@@ -9,8 +9,8 @@ The project is split into two phases. In the first, I focused on exploring the r
 
 
 ![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20091141.png)
-
-
+![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20091115.png)
+<img src="https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20091115.png" alt="PAC Result" width="400"/>
 
 ## Phase 1 — Analyzing and Filtering EEG Signals
 
