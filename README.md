@@ -46,18 +46,31 @@ This wasn’t just about finishing an assignment—it was about connecting theor
 
 ---
 
-## Structure
+## What I Learned
 
-The project is organized into:
+This project started as a homework assignment, but honestly, I really enjoyed working on it. Even though I already knew some MATLAB, this project challenged me to learn a lot more—especially when dealing with EEG data and Phase-Amplitude Coupling concepts. It pushed me to dig deeper into signal processing and explore new techniques I hadn’t used before.
 
-- `phase1/` – Signal exploration and filtering  
-- `phase2/` – LTI modeling and convolution  
-- `scripts/` – MATLAB code  
-- `data/` – EEG dataset  
-- `figures/` – Plots and visuals  
-- `report/` – My full report  
+I also got more comfortable with LaTeX while putting together the report, which was a nice bonus. All in all, it was a great chance to improve both my coding and documentation skills.
 
----
+Looking back, I’m glad I stuck with it. It showed me that even if something seems tough at first, with patience and practice, you can learn a lot—and maybe even enjoy it along the way!
+
+
+## Data Structure
+
+For each phase of the project, I organized everything into three main files:
+
+- **Phase1_Report.pdf** — This is the full report for Phase 1, where I explain the goals, methods, results, and conclusions.
+- **Phase1_Code.zip** — All the code and scripts used for Phase 1 are inside this archive. The folders are structured to make it easy to follow.
+- **Phase1_Results.zip** — Here you'll find the results, including output data, charts, and any figures generated from running the code.
+
+The same format is used for Phase 2:
+
+- **Phase2_Report.pdf**
+- **Phase2_Code.zip**
+- **Phase2_Results.zip**
+
+This way, everything related to each phase is grouped together, making it straightforward to access the reports, code, and results without confusion.
+
 
 ## Course Context
 
