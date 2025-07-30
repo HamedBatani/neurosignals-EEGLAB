@@ -6,9 +6,11 @@ The project is split into two phases. In the first, I focused on exploring the r
 
 ---
 
-![](image_URL_or_pathhttps://github.com/HamedBatani/neurosignals-EEGLAB/blob/main/Screenshot%202025-07-30%20090930.png )
 
----
+![alt](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20090930.png)
+
+
+
 ## Phase 1 — Analyzing and Filtering EEG Signals
 
 I started by loading EEG data (the `eeglab_data.set` sample dataset) into EEGLAB and selecting channels like `Pz` and `Oz` for analysis. After removing the DC offset, I calculated the energy, power, and RMS of the signal and then applied FFT to inspect its frequency content.
