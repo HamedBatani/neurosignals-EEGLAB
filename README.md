@@ -7,7 +7,8 @@ The project is split into two phases. In the first, I focused on exploring the r
 ---
 
 
-![alt](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20090930.png)
+
+![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20091141.png)
 
 
 
@@ -38,7 +39,7 @@ While the systems weren’t biologically accurate, the process helped me imagine
 - FFT for frequency analysis  
 - FIR and Butterworth filters  
 - Convolution with impulse responses to simulate system behavior
-
+![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20090930.png)
 ---
 
 ## Why I Think This Project Is Important
