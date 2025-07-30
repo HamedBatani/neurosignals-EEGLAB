@@ -17,7 +17,7 @@ I started by loading EEG data (the `eeglab_data.set` sample dataset) into EEGLAB
 This helped me identify key frequency bands like Alpha (8–13 Hz), Beta (13–30 Hz), and Delta (<4 Hz). I then designed and implemented FIR and Butterworth filters to isolate these bands. Comparing filtered vs. raw signals really highlighted how different brain wave components could be separated and studied individually.
 
 Seeing textbook filters actually clean up noisy EEG signals gave me a clearer understanding of why frequency analysis matters—especially when dealing with biological signals that are inherently messy.
-
+![](https://github.com/HamedBatani/neurosignals-EEGLAB/raw/main/Screenshot%202025-07-30%20091103.png)
 ---
 
 ## Phase 2 — Modeling EEG Signal Flow as an LTI System
